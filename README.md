@@ -2,10 +2,10 @@
 
 Description (Optional):
 
-# Created the VehicleController for handling requests.
-# Developed VehicleService for business logic.
-# Implemented VehicleDAO for database interactions.
-# Configured Hibernate with Maven dependencies
+ Created the VehicleController for handling requests.
+Developed VehicleService for business logic.
+Implemented VehicleDAO for database interactions.
+Configured Hibernate with Maven dependencies
 
 # Vehicle Entity Code
 package com.entity;
